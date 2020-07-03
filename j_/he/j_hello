@@ -2,3 +2,4 @@
 {"name":"j_hello","vers":"0.1.11","deps":[],"cksum":"39ad7b7620115458685e9ec8bc83c595ec0e4372ccc8c8a2237418f586f0ada5","features":{},"yanked":false}
 {"name":"j_hello","vers":"0.1.12","deps":[],"cksum":"20e9283970bb2df0e193672fe4067126fac6df8c1dcfaf2c18904ac65e160d25","features":{},"yanked":false}
 {"name":"j_hello","vers":"0.1.13","deps":[],"cksum":"6F41440DC1403F5CF088A16CBF12F47F9E38C13D91049D755C7192CBFDA66629","features":{},"yanked":true}
+{"name":"j_hello","vers":"0.2.13","deps":[],"cksum":"F1677B7358C2456368BB35E37C1F3A677634B52D37EF754AAD07B34F4D782148","features":{},"yanked":false}
